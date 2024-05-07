@@ -2,7 +2,7 @@
   "title": "cross_encoder", 
   "id": "max.timoshkin/cross_encoder", 
   "licenses": [{"name": "CC0-1.0"}],
-  "resources": [{"path": "/kaggle/working/cross_encoder/cross_encoder.pth", "description": "model description"}],
+  "resources": [{"path": "/kaggle/working/cross_encoder/cross_encoder.pth", "description": "description"}],
   "keywords": ["_"],
   "description": "cross_encoder",
   "language": "python",
