@@ -1,5 +1,9 @@
 {
   "title": "cross_encoder", 
   "id": "max.timoshkin/cross_encoder", 
-  "licenses": [{"name": "CC0-1.0"}]
+  "licenses": [{"name": "CC0-1.0"}],
+  "resources": [{"path": "path_to_your_model_file", "description": "Your model description"}],
+  "description": "cross_encoder",
+  "language": "python",
+  "version": "1.0"
 }
