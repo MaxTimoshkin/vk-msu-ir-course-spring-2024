@@ -6,5 +6,6 @@
   "keywords": ["_"],
   "description": "cross_encoder",
   "language": "python",
-  "version": "1.0"
+  "version": "1.0",
+  "ownerSlug": "MaxTimoshkin"
 }
